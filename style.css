@@ -1,0 +1,58 @@
+body{
+    box-sizing: border-box;
+    
+    font-family: 'Courgette', cursive;
+  
+}
+header{
+    text-align: center;
+    background-color: RGBA(211, 211, 211, 0.548)
+    ;
+}
+
+main{
+    background-image: url(//i.stack.imgur.com/NX7PC.jpg);
+    color: whitesmoke;
+    height: 500px;
+}
+
+#form{
+    width:33%;
+    text-align: center;
+    background-color:RGBA(211, 211, 211, 0.548) ;
+    height: 170px;
+
+}
+input{
+    width: 140px;
+    border-radius: 10px;
+}
+
+
+#test{
+    width: 33%;
+    height: 170px;
+    float: right;
+    background-color:RGBA(211, 211, 211, 0.548) ;
+    
+}
+table {
+    
+    text-align: center;
+    border: 1px solid RGB(78, 78, 78);
+    background-color: RGB(39, 39, 39);
+  
+}
+table th{
+    border: 1px solid RGB(78, 78, 78);
+}
+table td{
+    border: 1px solid RGB(78, 78, 78);
+
+}
+
+footer{
+    text-align: center;
+    background-color: RGBA(211, 211, 211, 0.548)
+    ;
+}
